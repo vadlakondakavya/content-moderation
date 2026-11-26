@@ -68,7 +68,7 @@ Requires Python 3.9 or newer.
 
 ```bash
 git clone https://github.com/<your-username>/content-moderation.git
-cd content-moderation-hitl
+cd content-moderation
 pip install -r requirements.txt
 jupyter notebook 01_active_learning.ipynb
 ```
